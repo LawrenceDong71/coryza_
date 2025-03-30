@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c198ffc5-7c97-44da-915a-d793951c6819" name="Changes" comment="Add project configuration files for IntelliJ IDEA&#10;&#10;These files configure the project settings, version control (Git), and workspace preferences for IntelliJ IDEA. They include module definitions, inspection profiles, and other IDE-specific settings.">
+    <list default="true" id="c198ffc5-7c97-44da-915a-d793951c6819" name="Changes" comment="Add project configuration files for IntelliJ IDEA&#10;&#10;Introduces IntelliJ-specific settings for managing the project and version control. These include workspace preferences, Git configurations, and additional IDE metadata for smoother development workflows.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <updated>1743294659341</updated>
       <workItem from="1743294660382" duration="569000" />
       <workItem from="1743295241114" duration="311000" />
-      <workItem from="1743295560488" duration="502000" />
+      <workItem from="1743295560488" duration="557000" />
     </task>
     <task id="LOCAL-00001" summary="Add project configuration files for IntelliJ IDEA&#10;&#10;These files configure the project settings, version control (Git), and workspace preferences for IntelliJ IDEA. They include module definitions, inspection profiles, and other IDE-specific settings.">
       <option name="closed" value="true" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743294880373</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add project configuration files for IntelliJ IDEA&#10;&#10;Introduces IntelliJ-specific settings for managing the project and version control. These include workspace preferences, Git configurations, and additional IDE metadata for smoother development workflows.">
+      <option name="closed" value="true" />
+      <created>1743296086349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743296086349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +102,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add project configuration files for IntelliJ IDEA&#10;&#10;These files configure the project settings, version control (Git), and workspace preferences for IntelliJ IDEA. They include module definitions, inspection profiles, and other IDE-specific settings." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add project configuration files for IntelliJ IDEA&#10;&#10;These files configure the project settings, version control (Git), and workspace preferences for IntelliJ IDEA. They include module definitions, inspection profiles, and other IDE-specific settings." />
+    <MESSAGE value="Add project configuration files for IntelliJ IDEA&#10;&#10;Introduces IntelliJ-specific settings for managing the project and version control. These include workspace preferences, Git configurations, and additional IDE metadata for smoother development workflows." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project configuration files for IntelliJ IDEA&#10;&#10;Introduces IntelliJ-specific settings for managing the project and version control. These include workspace preferences, Git configurations, and additional IDE metadata for smoother development workflows." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/coryza$resume_parser_gui.coverage" NAME="resume_parser_gui Coverage Results" MODIFIED="1743296012593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
